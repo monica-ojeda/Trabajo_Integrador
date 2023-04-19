@@ -1,13 +1,9 @@
 # Trabajo_Integrador
 Proyecto de Argentina Programa
 
-Integrantes del grupo N°12
-
--Hugo Boscardini.
--Jorge Choque.
--Maria Farhat.
+Integrante
 -Monica Ojeda.
--Juan Pavon.
+
 
 
 prototypo figma
